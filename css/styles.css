@@ -1,0 +1,111 @@
+/* Elements */
+html,
+body {
+  height: 100%;
+}
+
+body {
+<<<<<<< HEAD
+=======
+  -ms-flex-align: center;
+>>>>>>> 2363fe4692d8f01c4a66841d5d4558e6944ff480
+  align-items: center;
+  padding-bottom: 40px;
+  background-color: #e4f9f5;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+h3 {
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+
+hr {
+  margin-top 150px;
+  border-color: #e4f9f5;
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+}
+
+/*--------------------------------- top container */
+
+/*---------------------- nav bar */
+.bname {
+  font-size: 1rem;
+}
+
+.brandName {
+  font-family: 'Satisfy', cursive;
+}
+
+/*----------------------  title */
+
+.cont-title {
+  background-image: url("../ivy.jpg");
+}
+
+.top {
+  background-color: #40514e;
+  color: #e4f9f5;
+  line-height: 1.5;
+  padding: 3% 7%;
+}
+
+.logo {
+  border-radius: 100px;
+}
+
+/*--------------------------------- Middle container */
+
+/*---------------------- Who We Are */
+
+.wwa-div {
+  padding: 3% 5%;
+}
+
+.mid-i {
+  padding-right: 25px;
+}
+
+#middle .all-p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+
+}
+
+/*---------------------- area */
+
+.area-div {
+  background-color: #11999e;
+  padding: 10% 0;
+  text-align: center;
+  color: #e4f9f5;
+}
+
+.area-header {
+  margin-bottom: 100px;
+  font-size: 3.5rem;
+}
+
+.area-p {
+  margin-top: 100px;
+}
+
+
+
+
+
+/*----------------------  usefull links */
+
+/* https://colorhunt.co/palette/141287 */
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Satisfy', cursive; */

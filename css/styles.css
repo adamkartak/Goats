@@ -5,10 +5,6 @@ body {
 }
 
 body {
-<<<<<<< HEAD
-=======
-  -ms-flex-align: center;
->>>>>>> 2363fe4692d8f01c4a66841d5d4558e6944ff480
   align-items: center;
   padding-bottom: 40px;
   background-color: #e4f9f5;
@@ -26,7 +22,6 @@ h3 {
 }
 
 hr {
-  margin-top 150px;
   border-color: #e4f9f5;
 }
 
@@ -44,7 +39,9 @@ p {
 
 .brandName {
   font-family: 'Satisfy', cursive;
+  color: #e4f9f5;
 }
+
 
 /*----------------------  title */
 
@@ -99,7 +96,9 @@ p {
   margin-top: 100px;
 }
 
-
+.copyright {
+  font-size: 14px;
+}
 
 
 
